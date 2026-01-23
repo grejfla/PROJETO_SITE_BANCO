@@ -1,7 +1,28 @@
 body {
-background-color: rgb(73, 73, 216); 
+background-color: #ADD8E6; 
 color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
+
+div {
+    background: rgb(73, 73, 216);
+        padding: 20 px;
+    margin: 10 px;
+    border-radius: 8px;
+}
+button{
+    font-size: 18px;
+}
+img{
+    width: 300px;
+}
+
+
 
 
 
